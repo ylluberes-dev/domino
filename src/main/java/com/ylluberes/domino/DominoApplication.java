@@ -9,6 +9,7 @@ public class DominoApplication {
 	public static void main(String[] args) {
 		System.out.println("Running spring boot application");
 		//SpringApplication.run(DominoApplication.class, args);
+
 	}
 
 }
